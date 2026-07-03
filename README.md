@@ -2,7 +2,7 @@
 
 **Your Advanced Personal Cyber Security Vault**
 
-VaultX is a fully client-side, privacy-focused security vault designed for secure credential management and enhanced digital protection[cite: 1]. It empowers users to protect, manage, and understand their data without surrendering control to cloud-based services[cite: 1].
+VaultX is a fully client-side, privacy-focused security vault designed for secure credential management and enhanced digital protection. It empowers users to protect, manage, and understand their data without surrendering control to cloud-based services.
 
 Here is the live link: https://developerheat.github.io/VaultX/
 
@@ -31,8 +31,8 @@ VaultX bridges the gap between high-level security and user accessibility:
 
 VaultX is built on the **"privacy-by-design"** model, adhering to the principle of least privilege. 
 
-* **No Cloud Dependency:** By eliminating server-side storage, VaultX mitigates the risks of large-scale data breaches common in centralized password managers[cite: 1].
-* **Transparency:** The application is transparent about how data is handled, ensuring users retain full autonomy over their digital credentials[cite: 1].
+* **No Cloud Dependency:** By eliminating server-side storage, VaultX mitigates the risks of large-scale data breaches common in centralized password managers.
+* **Transparency:** The application is transparent about how data is handled, ensuring users retain full autonomy over their digital credentials.
 
 ---
 
